@@ -13,6 +13,6 @@ Interface:
 
 `ll sum(int l, int r)` return a sum of all elements in a range `[l,r]`.
 
-`void print_tree(bool print_height = false)` print a tree keys in the console. If `print_height == true` prints heights of the nodes.
+`void print_tree(bool print_height = false)` print tree keys in the console. If `print_height == true` prints heights of the nodes.
 
 
